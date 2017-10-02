@@ -1,1 +1,1 @@
-﻿Test-NetConnection -Port 443 -InformationLevel Detailed
+﻿Test-NetConnection -Port 445 -InformationLevel Detailed
